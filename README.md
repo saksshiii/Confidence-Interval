@@ -19,7 +19,7 @@ Where:
 The z-score can be obtained from the standard normal distribution table or calculated using statistical software.
 
 * When the standard deviation of the population is unknown, the confidence interval for the population mean ($μ$) can be calculated using the sample standard deviation (s) as an estimate for $σ$. This is done using the t-distribution instead of the normal distribution. The formula for the confidence interval is:
-* 
+
 Confidence Interval=( mean − t*(s)/sqrt(n), mean + t*(s)/sqrt(n))
 
 Where:
@@ -29,3 +29,6 @@ Where:
 * n - is the sample size,
 * t - is the t-score corresponding to the desired confidence level and degrees of freedom.
 The value of t can be obtained from the t-distribution table or calculated using statistical software.
+
+![Uploading image.png…]()
+
