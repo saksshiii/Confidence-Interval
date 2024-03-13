@@ -12,8 +12,8 @@ $xbar +z * σ/sqrr(n)$
 
 Where:
 
-$ xbar$ - is the sample mean,
-$ σ$ - is the population standard deviation,
-$ n $ - is the sample size,
-$ z $ - is the z-score corresponding to the desired confidence level.
+* xbar*- is the sample mean,
+* σ*- is the population standard deviation,
+* n * - is the sample size,
+* z * - is the z-score corresponding to the desired confidence level.
 The z-score can be obtained from the standard normal distribution table or calculated using statistical software.
