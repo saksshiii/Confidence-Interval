@@ -30,5 +30,6 @@ Where:
 * t - is the t-score corresponding to the desired confidence level and degrees of freedom.
 The value of t can be obtained from the t-distribution table or calculated using statistical software.
 
-![Uploading image.png…]()
+![image](https://github.com/saksshiii/Confidence-Interval/assets/110448803/27b0097c-fe73-48ab-b5d8-853fef148da5)
+
 
