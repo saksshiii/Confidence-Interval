@@ -1,5 +1,8 @@
+![image](https://github.com/saksshiii/Confidence-Interval/assets/110448803/7cb49128-9545-4015-b07f-6cb22109c1bf)
+
 # Confidence-Interval
-Finding Confidence Interval when standard deviation is known and unknown and finding boxplots of number of samples from the dataset. The dataset is of heights and weights.
+* Confidence interval for a mean is a range of values that is likely to contain a population mean with a certain level of confidence. In other words, knowing the mean value of the sample, we can calculate the interval in which the mean of our population will be. If you set a confidence interval with a 95% confidence level then you are confident that 95 out of 100 times the estimate will fall between the upper and lower values specified by this interval.
+* Finding Confidence Interval when standard deviation is known and unknown and finding boxplots of number of samples from the dataset. The dataset is of heights and weights.
 
 * When the standard deviation of the population is known, the confidence interval for the population mean ($μ$) can be calculated using the formula:
 
@@ -9,6 +12,8 @@ Finding Confidence Interval when standard deviation is known and unknown and fin
 Confidence Interval=( 
 $mean −z * σ/sqrt(n)$ , 
 $mean +z * σ/sqrr(n)$
+
+![image](https://github.com/saksshiii/Confidence-Interval/assets/110448803/b37f942c-a240-4c8b-b774-69f6fecc8005)
 
 Where:
 
